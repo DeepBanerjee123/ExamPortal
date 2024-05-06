@@ -1,0 +1,7 @@
+
+<web-app>
+	<welcome-file-list>
+		<welcome-file>teacherlogin.jsp</welcome-file>
+	</welcome-file-list>
+  <display-name>Archetype Created Web Application</display-name>
+</web-app>
